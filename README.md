@@ -9,7 +9,7 @@ I'm currently learning **Python**.
 - **C++**
 
 
-  h![A](https://i.pinimg.com/736x/5f/9e/57/5f9e57cefee1598afee1c482cbdd203e.jpg)
+  ![A](https://i.pinimg.com/736x/5f/9e/57/5f9e57cefee1598afee1c482cbdd203e.jpg)
 
 
 
