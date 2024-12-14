@@ -1,4 +1,4 @@
-# Hi, I'm Ibrahim 👋
+# Hi, I'm Ibrahim ._.
 
 I'm currently learning **Python**.
 
